@@ -1,4 +1,4 @@
-class Main {
+class code {
     public static void main(String[] args) {
         System.out.println("Sarthak Gadakh");
     }
